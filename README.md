@@ -1,18 +1,33 @@
-## Getting Started
+# 🎓 Abstraindo um Bootcamp - Desafio de Código em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido como parte do **Desafio de Código da DIO (Digital Innovation One)** com o objetivo de praticar os principais conceitos de **Programação Orientada a Objetos (POO)** em Java.
 
-## Folder Structure
+## 🎯 Objetivo
 
-The workspace contains two folders by default, where:
+O desafio consiste em **abstrair um modelo de bootcamp**, utilizando os pilares da POO como:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Classes e objetos
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Sobrescrita de métodos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠 Tecnologias Utilizadas
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Java 17+**
+- IDE: Visual Studio Code (VS Code)
 
-## Dependency Management
+## 🧠 Conceitos Aplicados
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Organização de código em pacotes (`package`)
+- Encapsulamento com `getters` e `setters`
+- Abstração com classes genéricas
+- Reutilização de código via herança (`extends`)
+- Polimorfismo com métodos sobrescritos (`@Override`)
+- Manipulação de datas com `LocalDate`
+
+## 👨‍🏫 Projeto Proposto por
+
+[**DIO – Digital Innovation One**](https://www.dio.me/)
+
+---
